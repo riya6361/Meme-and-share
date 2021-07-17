@@ -1,0 +1,29 @@
+.body{
+justify-content: center;
+align-items: center;
+display: flex;
+flex-direction: column;
+}
+
+.heading {
+    color: rgb(241, 101, 66);
+    
+}
+.btns > button{
+    background-color: rgba(7, 5, 128, 0.699);
+    height: 40px;
+    width:120px;
+    border-radius: 20px;
+    border-color: transparent;
+    color: aliceblue;
+    font-size: medium;
+}
+
+.btns{
+    margin-top: 20px;
+}
+
+#btn2{
+    margin-left: 30px;
+}
+
